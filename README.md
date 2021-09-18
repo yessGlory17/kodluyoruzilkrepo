@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz ](https://www.kodluyoruz.org/)Front-End Eğitiminde oluştur
 
 
 
-![](C:\Users\ozgur\Downloads\repository-open-graph-template.png)
+![](https://github.com/yessGlory17/kodluyoruzilkrepo/blob/main/repository-open-graph-template.png)
 
 ## Installation
 
