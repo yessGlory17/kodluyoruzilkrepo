@@ -4,6 +4,8 @@ Bu repo [Kodluyoruz ](https://www.kodluyoruz.org/)Front-End Eğitiminde oluştur
 
 
 
+![](C:\Users\ozgur\Downloads\repository-open-graph-template.png)
+
 ## Installation
 
 Öncelikle projeyi clonelayın. 
