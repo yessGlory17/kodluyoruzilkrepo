@@ -34,6 +34,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için önce neyi değişti
 
 ## License
 
-[MIT]([The MIT License | Open Source Initiative](https://opensource.org/licenses/MIT))
+[MIT](https://opensource.org/licenses/MIT)
 
 
